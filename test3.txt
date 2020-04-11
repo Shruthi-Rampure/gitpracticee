@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-feature b code
-=======
-feature c code
->>>>>>> featurec
+merged colficts succesfully
+
